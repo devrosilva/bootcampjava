@@ -1,3 +1,4 @@
-# Simple library project.
+## Library project.
 
-Implemented using Java Servlet, JDBC and JSP.
+- Implemented GET and POST operations. GET to query for registered authors and POST to register a new author. </br></br>
+- Project implemented using <b>Java Servlet, JDBC and JSP.</b>
