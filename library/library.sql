@@ -1,7 +1,7 @@
 CREATE TABLE authors (
 	id integer PRIMARY KEY,
 	name varchar,
-	birthdate date,
+	birthday date,
 	email varchar,
 	resume varchar
 );
